@@ -21,4 +21,5 @@ for(var i=0; i<arr.length;i++)
 console.log(min);
 
 var str={"apple","banana","grapes"}; // string initialize.
+console.log(str.length);
 
