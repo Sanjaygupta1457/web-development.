@@ -23,3 +23,9 @@ console.log(min);
 var str={"apple","banana","grapes"}; // string initialize.
 console.log(str.length);
 
+//adding string 
+str.unshift("pineapple");
+
+//done with changes
+
+
