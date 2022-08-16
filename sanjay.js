@@ -8,3 +8,14 @@ for(var i=0; i<arr.length;i++)
   }
 }
 console.log(max);
+
+//find minimum value in an array
+var arr=[5,4,3,2,1,8];
+var min=arr[0];
+for(var i=0; i<arr.length;i++)
+{
+  if(min<arr[i]){
+    min=arr[i];
+  }
+}
+console.log(min);
